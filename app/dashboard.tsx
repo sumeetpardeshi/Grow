@@ -5,12 +5,9 @@ import {
   Home,
   LineChart,
   Menu,
-  Package,
-  Package2,
   Blocks,
   Search,
   ShoppingCart,
-  Users,
   SquarePen,
 } from "lucide-react"
 
